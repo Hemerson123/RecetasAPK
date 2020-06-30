@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         webView.loadUrl("http://185.254.206.236/");
 //webView.loadUrl("http://185.254.206.236/");
-// webView.setWebViewClient(new WebViewClient());
+        webView.setWebViewClient(new WebViewClient());
 
 
     }
